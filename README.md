@@ -35,7 +35,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
-    
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
     </a>
@@ -72,14 +71,14 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetarth02&show_icons=true&theme=merko&locale=en&layout=compact" alt="nisarg03" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisarg03&show_icons=true&theme=merko&locale=en&layout=compact" alt="nisarg03" />
 </p>
 
 <p>
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hetarth02&show_icons=true&theme=radical&locale=en" alt="nisarg03" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nisarg03&show_icons=true&theme=radical&locale=en" alt="nisarg03" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetarth02&theme=dark" alt="nisarg03" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisarg03&theme=dark" alt="nisarg03" />
 </p>
