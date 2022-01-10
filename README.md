@@ -2,7 +2,7 @@
 <h3 align="center">A Data Science, Machine Learning and Artificial Intelligence Enthusiast from India.</h3>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=hetarth02&label=Views&color=2984e6&style=flat-square" alt="hetarth02" />
+    <img src="https://komarev.com/ghpvc/?username=hetarth02&label=Views&color=2984e6&style=flat-square" alt="nisarg03" />
 </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
