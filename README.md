@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects!**
 
-- 💬 Ask me about **Python**.
+- 💬 Ask me about **Python** and its libraries.
 
 - 📫 Reach me at **nisargpatel9000@gmail.com**
 
