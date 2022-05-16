@@ -70,8 +70,6 @@
     </a>
 </p>
 
-[![Nisarg's github activity graph](https://activity-graph.herokuapp.com/graph?username=nisarg03&theme=react-dark)](https://github.com/Nisarg03/github-readme-activity-graph)
-
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisarg03&show_icons=true&theme=merko&locale=en&layout=compact" alt="nisarg03" />
 </p>
@@ -84,3 +82,5 @@
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisarg03&theme=dark" alt="nisarg03" />
 </p>
+
+[![Nisarg's github activity graph](https://activity-graph.herokuapp.com/graph?username=nisarg03&theme=react-dark)](https://github.com/Nisarg03/github-readme-activity-graph)
