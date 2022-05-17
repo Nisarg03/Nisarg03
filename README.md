@@ -7,7 +7,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on documentation as a content writer and COO for **Snippet Sauce.**
+- 🔭 I’m currently working as a Freelance documentation and Technical content writer and COO for **Snippet Sauce.**
 
 - 🌱 I’m currently learning **ML/AI and Web Development**.
 
